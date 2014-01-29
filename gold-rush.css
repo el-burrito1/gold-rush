@@ -1,0 +1,15 @@
+.map{
+	width: 100%
+}
+
+.main-container{
+	position:relative;
+}
+
+.gold-container{
+	position:absolute;
+	z-index: 1;
+	height:25px;
+	width:25px;
+}
+
